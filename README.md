@@ -4,7 +4,7 @@ A library for Wolfram Mathematica (version 11+,mine 12) to read video file via f
 
 ## How to compile
 
-Open CMD and any shell, then run `make`
+Open CMD, then run `make`
 
 ## Sample code:
 

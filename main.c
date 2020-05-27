@@ -2,8 +2,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "ffms.h"
-#include "wolfram/WolframLibrary.h"
-#include "wolfram/WolframImageLibrary.h"
+#include "WolframLibrary.h"
+#include "WolframImageLibrary.h"
 
 DLLEXPORT int WolframLibrary_getVersion() {
 	return WolframLibraryVersion;
